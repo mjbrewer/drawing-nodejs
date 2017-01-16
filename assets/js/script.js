@@ -7,7 +7,7 @@ $(function(){
 	}
 
 	// The URL of your web server (the port is set in app.js)
-	var url = 'http://gttdrawing.azurewebsites.net:80';
+	var url = 'http://gttdrawing.azurewebsites.net';
 
 	var doc = $(document),
 		win = $(window),
