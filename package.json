@@ -6,8 +6,6 @@
         "start": "node app.js"
     },
     "dependencies": {
-        "express": "4.13.x",
-        "cfenv": "1.0.x",
         "node-static" : "latest",
         "socket.io" : ">= 0.9.6"
     },
